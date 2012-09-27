@@ -1,0 +1,45 @@
+#abctest_container {
+	}
+	
+#abctest_container img {
+	float: left;
+	margin-right: 10px;  
+	}	
+	
+
+#abctest_container .abctest_resumebar {
+	clear: both;
+	background-color: #eeeeee;
+	padding: 3px;
+	text-align: center;
+	font-weight: bold;
+	}	
+	
+#abctest_container .abctest_options_intro {
+	position: absolute;	
+	width: 300px;
+	}	
+
+#abctest_container .abctest_options {
+	position: relative;	
+	width: 240px;
+	text-align: left;
+	margin-left: 320px;
+	}
+	
+#abctest_container .abctest_options ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	}	
+	
+#abctest_container .abctest_options ul li {
+	margin: 0px; 
+	padding: 0px;
+	}
+	
+#abctest_container .abctest_options ul li label {
+	color: #333333;
+	font-size: 15px;
+	cursor: pointer; 
+	}		
